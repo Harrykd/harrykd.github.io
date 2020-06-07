@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Harry Dharsandia"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio.jpg"
   bio              : "Personal Blog and Portfolio"
   location         : "India, APAC"
   email            :
