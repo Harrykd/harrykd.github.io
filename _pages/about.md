@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 hearder: 
-    image: "/images/about.png"
+    image: "/images/about.jpg"
 ---
 
 I am Senior Engineer working on Unified Communication products, Cloud CX Solution, MSSQL,  Linux, AWS, Docker, Implementation, Python Technology and have interest and passion for Mutlicloud, ML, AI chat Bod, IoT Automation etc.
